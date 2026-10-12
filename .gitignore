@@ -3,3 +3,4 @@ outputs/
 wandb/
 *.ckpt
 __pycache__/
+venv/
